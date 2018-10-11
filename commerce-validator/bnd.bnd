@@ -1,3 +1,4 @@
 Bundle-Name: Breccia Commerce Validation
 Bundle-SymbolicName: com.breccia.liferay.commerce.validation
-Bundle-Version: 1.0.0
+Bundle-Version: 1.0.1
+-sources: true
