@@ -1,15 +1,7 @@
 /**
- * Copyright (c) 2000-present Liferay, Inc. All rights reserved.
+ * © 2018 Liferay, Inc. <https://liferay.com>
  *
- * This library is free software; you can redistribute it and/or modify it under
- * the terms of the GNU Lesser General Public License as published by the Free
- * Software Foundation; either version 2.1 of the License, or (at your option)
- * any later version.
- *
- * This library is distributed in the hope that it will be useful, but WITHOUT
- * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
- * FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more
- * details.
+ * SPDX-License-Identifier: LGPL-2.1-or-later
  */
 
 package com.breccia.liferay.commerce.validation.configurationaction;
@@ -18,6 +10,9 @@ import aQute.bnd.annotation.metatype.Meta;
 
 import com.liferay.portal.configuration.metatype.annotations.ExtendedObjectClassDefinition;
 
+/**
+ * @author Ethan Bustad
+ */
 @ExtendedObjectClassDefinition(
 	category = "catalog", scope = ExtendedObjectClassDefinition.Scope.SYSTEM
 )
