@@ -1,0 +1,5 @@
+Bundle-Name: Commerce Name Matcher Catalog Rule Type
+Bundle-SymbolicName: com.liferay.commerce.product.sample
+Bundle-Version: 1.0.0
+Web-ContextPath: /commerce-product-sample
+-sources: true
