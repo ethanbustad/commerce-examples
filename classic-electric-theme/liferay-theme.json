@@ -1,0 +1,9 @@
+{
+  "LiferayTheme": {
+    "deployPath": "/home/ethan/dev/src/bundles/deploy",
+    "themeName": "classic-electric-theme",
+    "appServerPathTheme": "/home/ethan/dev/src/bundles/tomcat-9.0.10/webapps/classic-electric-theme",
+    "deployed": false,
+    "appServerPath": "/home/ethan/dev/src/bundles/tomcat-9.0.10"
+  }
+}
